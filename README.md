@@ -67,6 +67,8 @@ npm start          # then press i (iOS), a (Android), or w (web)
 
 The camera and file pickers are native modules. If Expo Go doesn't include them for your SDK, make a development build with `npx expo run:ios` or `npx expo run:android`.
 
+To install the app on a physical device, see [Running on an iPhone](docs/RUNNING_ON_IOS_DEVICE.md) or [Running on an Android phone](docs/RUNNING_ON_ANDROID_DEVICE.md).
+
 ### Scripts
 
 | Command | What it does |
